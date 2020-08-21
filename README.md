@@ -1,6 +1,6 @@
 # Robots-Market-Analysis
 
-Perform data analysis exploring use patterns of the typical robot user per country. Include relevant visualizations where appropriate, and address any possible effects of data loss on your findings.
+Perform data analysis exploring use patterns of the typical cleaning robot user per country. Include relevant visualizations where appropriate, and address any possible effects of data loss on your findings.
 
 1. Are there geographic differences in robot usage?
   - Consider all descriptive features of a mission, including when and how frequently it occurred.
