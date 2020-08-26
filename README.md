@@ -1,9 +1,9 @@
-# Dictionary
+# Directory
 ### 1. Cleaning Robot Market Analysis using Python
 ### 2. Mobile Match-3 Game, Product Teardown
 
 
-# 1. Cleaning Robot Market Analysis
+# 1. Cleaning Robot Market Analysis using Python
 
 ## Data:
 1. mission_data.csv.bz2
@@ -35,3 +35,9 @@ The columns are defined as follows:
 2. Calculate the time between consecutive missions for each robot ("inter-mission interval" or "IMI"). Describe any interesting relationships between IMI and other features of robot behavior.
 
 3. We are aware that data loss exists among the mission records, but are unsure of the cause. Quantify the extent of the loss, differentiating between discrete catastrophic events and random mission loss for individual robots. Investigate whether this loss is uniform or whether it may be impacting other analyses.
+
+
+# 2. Mobile Match-3 Game, Product Teardown
+
+## Goal
+Teardown a top-tier mobile Match-3 game of your choice.
